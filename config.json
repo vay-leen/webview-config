@@ -1,16 +1,16 @@
 {
-  "tabs": [
-    {
-      "title": "Shinigami",
-      "url": "https://id.shinigami.asia"
-    },
-    {
-      "title": "Fx",
-      "url": "https://www.forexfactory.com"
-    },
-    {
-      "title": "Google",
-      "url": "https://jav3d.com"
-    }
-  ]
+    "tabs": [
+        {
+            "title": "Shinigami",
+            "url": "https://id.shinigami.asia"
+        },
+        {
+            "title": "Fx",
+            "url": "https://www.forexfactory.com"
+        },
+        {
+            "title": "Google",
+            "url": "https://jav3d.com"
+        }
+    ]
 }
